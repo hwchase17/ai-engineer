@@ -1,0 +1,9 @@
+langchain
+openai
+wikipedia
+requests
+pydantic==1.10.8
+tiktoken
+jupyter
+docarray
+openapi_schema_pydantic
